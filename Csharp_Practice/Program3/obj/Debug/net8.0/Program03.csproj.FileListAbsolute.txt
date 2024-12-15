@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\bin\Debug\net8.0\Program03.exe
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\bin\Debug\net8.0\Program03.deps.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\bin\Debug\net8.0\Program03.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\bin\Debug\net8.0\Program03.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\bin\Debug\net8.0\Program03.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\Program03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\Program03.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\Program03.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\Program03.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\Program03.sourcelink.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\Program03.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\refint\Program03.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\Program03.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\Program03.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\Program3\obj\Debug\net8.0\ref\Program03.dll
