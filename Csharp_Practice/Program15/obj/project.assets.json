@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program15\\Program15.csproj",
-      "projectName": "Program15",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program15\\Program15.csproj",
+      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program15\\P15_ArithmeticOperation.csproj",
+      "projectName": "P15_ArithmeticOperation",
+      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program15\\P15_ArithmeticOperation.csproj",
       "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program15\\obj\\",
       "projectStyle": "PackageReference",

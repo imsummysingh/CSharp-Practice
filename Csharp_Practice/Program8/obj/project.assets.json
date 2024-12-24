@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program8\\Program08.csproj",
-      "projectName": "Program08",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program8\\Program08.csproj",
+      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program8\\P08_DivisibleBy2.csproj",
+      "projectName": "P08_DivisibleBy2",
+      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program8\\P08_DivisibleBy2.csproj",
       "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program8\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program13\\Program13.csproj",
-      "projectName": "Program13",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program13\\Program13.csproj",
+      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program13\\P13_ReverseNo.csproj",
+      "projectName": "P13_ReverseNo",
+      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program13\\P13_ReverseNo.csproj",
       "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program13\\obj\\",
       "projectStyle": "PackageReference",

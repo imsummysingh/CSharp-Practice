@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program17\\Program17.csproj",
-      "projectName": "Program17",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program17\\Program17.csproj",
+      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program17\\P17_ArrayReverse.csproj",
+      "projectName": "P17_ArrayReverse",
+      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program17\\P17_ArrayReverse.csproj",
       "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\Program17\\obj\\",
       "projectStyle": "PackageReference",
