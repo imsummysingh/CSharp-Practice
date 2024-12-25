@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P16_ArrayLength")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b64ad21541a1791f22902e49097798d05e4afde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19dbb628ea75aea105b881b26a303d83e702d9a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("P16_ArrayLength")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P16_ArrayLength")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

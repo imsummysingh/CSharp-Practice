@@ -41,6 +41,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P18_SearchElementInArray", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P19_Search_Contain_ElementInArray", "Program19\P19_Search_Contain_ElementInArray.csproj", "{6D4D78CB-69EC-4BC6-BDC1-BDF9F87B1DD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P20_Array_Lower&UpperBound", "P20_Array_Lower&UpperBound\P20_Array_Lower&UpperBound.csproj", "{0D29CD03-5BFD-4A29-B813-02D281D6A1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P21_ArrayObject_Lower&UpperBound", "P21_ArrayObject_Lower&UpperBound\P21_ArrayObject_Lower&UpperBound.csproj", "{D44E08AF-4966-44D3-80A5-E3827C49DFDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{6D4D78CB-69EC-4BC6-BDC1-BDF9F87B1DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D4D78CB-69EC-4BC6-BDC1-BDF9F87B1DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D4D78CB-69EC-4BC6-BDC1-BDF9F87B1DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D29CD03-5BFD-4A29-B813-02D281D6A1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D29CD03-5BFD-4A29-B813-02D281D6A1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D29CD03-5BFD-4A29-B813-02D281D6A1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D29CD03-5BFD-4A29-B813-02D281D6A1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44E08AF-4966-44D3-80A5-E3827C49DFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44E08AF-4966-44D3-80A5-E3827C49DFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44E08AF-4966-44D3-80A5-E3827C49DFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44E08AF-4966-44D3-80A5-E3827C49DFDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
