@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\bin\Debug\net8.0\P22_JaggedArray1.exe
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\bin\Debug\net8.0\P22_JaggedArray1.deps.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\bin\Debug\net8.0\P22_JaggedArray1.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\bin\Debug\net8.0\P22_JaggedArray1.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\bin\Debug\net8.0\P22_JaggedArray1.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\P22_JaggedArray1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\P22_JaggedArray1.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\P22_JaggedArray1.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\P22_JaggedArray1.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\P22_JaggedArray1.sourcelink.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\P22_JaggedArray1.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\refint\P22_JaggedArray1.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\P22_JaggedArray1.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\P22_JaggedArray1.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P22_JaggedArray1\obj\Debug\net8.0\ref\P22_JaggedArray1.dll

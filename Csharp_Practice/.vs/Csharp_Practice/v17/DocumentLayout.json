@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D44E08AF-4966-44D3-80A5-E3827C49DFDF}|P21_ArrayObject_Lower\u0026UpperBound\\P21_ArrayObject_Lower\u0026UpperBound.csproj|c:\\users\\ssingh47\\source\\repos\\csharp-practice\\csharp_practice\\p21_arrayobject_lower\u0026upperbound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44E08AF-4966-44D3-80A5-E3827C49DFDF}|P21_ArrayObject_Lower\u0026UpperBound\\P21_ArrayObject_Lower\u0026UpperBound.csproj|solutionrelative:p21_arrayobject_lower\u0026upperbound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD25DD3C-DFD0-45F2-9CF5-5FFA7A198013}|P23_JaggedArray2\\P23_JaggedArray2.csproj|c:\\users\\ssingh47\\source\\repos\\csharp-practice\\csharp_practice\\p23_jaggedarray2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD25DD3C-DFD0-45F2-9CF5-5FFA7A198013}|P23_JaggedArray2\\P23_JaggedArray2.csproj|solutionrelative:p23_jaggedarray2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D24FC-0E23-4292-9EE1-7B2DA800C66C}|P22_JaggedArray1\\P22_JaggedArray1.csproj|c:\\users\\ssingh47\\source\\repos\\csharp-practice\\csharp_practice\\p22_jaggedarray1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D24FC-0E23-4292-9EE1-7B2DA800C66C}|P22_JaggedArray1\\P22_JaggedArray1.csproj|solutionrelative:p22_jaggedarray1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,13 +56,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\P21_ArrayObject_Lower\u0026UpperBound\\Program.cs",
-              "RelativeDocumentMoniker": "P21_ArrayObject_Lower\u0026UpperBound\\Program.cs",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\P21_ArrayObject_Lower\u0026UpperBound\\Program.cs",
-              "RelativeToolTip": "P21_ArrayObject_Lower\u0026UpperBound\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\P23_JaggedArray2\\Program.cs",
+              "RelativeDocumentMoniker": "P23_JaggedArray2\\Program.cs",
+              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\P23_JaggedArray2\\Program.cs",
+              "RelativeToolTip": "P23_JaggedArray2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:27:39.402Z",
+              "WhenOpened": "2024-12-25T14:41:46.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\P22_JaggedArray1\\Program.cs",
+              "RelativeDocumentMoniker": "P22_JaggedArray1\\Program.cs",
+              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\CSharp-Practice\\Csharp_Practice\\P22_JaggedArray1\\Program.cs",
+              "RelativeToolTip": "P22_JaggedArray1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:02:29.377Z",
               "EditorCaption": ""
             }
           ]
