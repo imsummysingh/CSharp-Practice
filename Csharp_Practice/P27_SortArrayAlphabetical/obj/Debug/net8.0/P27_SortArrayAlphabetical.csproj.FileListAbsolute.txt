@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\bin\Debug\net8.0\P27_SortArrayAlphabetical.exe
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\bin\Debug\net8.0\P27_SortArrayAlphabetical.deps.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\bin\Debug\net8.0\P27_SortArrayAlphabetical.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\bin\Debug\net8.0\P27_SortArrayAlphabetical.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\bin\Debug\net8.0\P27_SortArrayAlphabetical.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\P27_SortArrayAlphabetical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\P27_SortArrayAlphabetical.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\P27_SortArrayAlphabetical.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\P27_SortArrayAlphabetical.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\P27_SortArrayAlphabetical.sourcelink.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\P27_SortArrayAlphabetical.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\refint\P27_SortArrayAlphabetical.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\P27_SortArrayAlphabetical.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\P27_SortArrayAlphabetical.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P27_SortArrayAlphabetical\obj\Debug\net8.0\ref\P27_SortArrayAlphabetical.dll

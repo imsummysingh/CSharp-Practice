@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\bin\Debug\net8.0\P26_CopySectionOfArray.exe
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\bin\Debug\net8.0\P26_CopySectionOfArray.deps.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\bin\Debug\net8.0\P26_CopySectionOfArray.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\bin\Debug\net8.0\P26_CopySectionOfArray.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\bin\Debug\net8.0\P26_CopySectionOfArray.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\P26_CopySectionOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\P26_CopySectionOfArray.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\P26_CopySectionOfArray.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\P26_CopySectionOfArray.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\P26_CopySectionOfArray.sourcelink.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\P26_CopySectionOfArray.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\refint\P26_CopySectionOfArray.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\P26_CopySectionOfArray.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\P26_CopySectionOfArray.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P26_CopySectionOfArray\obj\Debug\net8.0\ref\P26_CopySectionOfArray.dll

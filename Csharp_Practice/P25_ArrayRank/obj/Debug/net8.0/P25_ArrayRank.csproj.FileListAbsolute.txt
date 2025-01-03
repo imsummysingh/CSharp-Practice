@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\bin\Debug\net8.0\P25_ArrayRank.exe
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\bin\Debug\net8.0\P25_ArrayRank.deps.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\bin\Debug\net8.0\P25_ArrayRank.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\bin\Debug\net8.0\P25_ArrayRank.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\bin\Debug\net8.0\P25_ArrayRank.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\P25_ArrayRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\P25_ArrayRank.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\P25_ArrayRank.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\P25_ArrayRank.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\P25_ArrayRank.sourcelink.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\P25_ArrayRank.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\refint\P25_ArrayRank.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\P25_ArrayRank.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\P25_ArrayRank.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P25_ArrayRank\obj\Debug\net8.0\ref\P25_ArrayRank.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P14_ReverseNo_CheckPalindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a40971d4e74a5d296bc5e427d39123adf2feb282")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c49422ccfd313f3e567b3d0360f78620737a144")]
 [assembly: System.Reflection.AssemblyProductAttribute("P14_ReverseNo_CheckPalindrome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P14_ReverseNo_CheckPalindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

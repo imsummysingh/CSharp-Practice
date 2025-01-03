@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\bin\Debug\net8.0\P24_Convert2Dto1D.exe
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\bin\Debug\net8.0\P24_Convert2Dto1D.deps.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\bin\Debug\net8.0\P24_Convert2Dto1D.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\bin\Debug\net8.0\P24_Convert2Dto1D.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\bin\Debug\net8.0\P24_Convert2Dto1D.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\P24_Convert2Dto1D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\P24_Convert2Dto1D.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\P24_Convert2Dto1D.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\P24_Convert2Dto1D.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\P24_Convert2Dto1D.sourcelink.json
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\P24_Convert2Dto1D.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\refint\P24_Convert2Dto1D.dll
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\P24_Convert2Dto1D.pdb
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\P24_Convert2Dto1D.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\CSharp-Practice\Csharp_Practice\P24_Convert2Dto1D\obj\Debug\net8.0\ref\P24_Convert2Dto1D.dll

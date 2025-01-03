@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P24_Convert2Dto1D/1.0.0": {
+        "runtime": {
+          "P24_Convert2Dto1D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P24_Convert2Dto1D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
